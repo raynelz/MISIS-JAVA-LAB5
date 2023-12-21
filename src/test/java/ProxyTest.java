@@ -1,5 +1,5 @@
-import org.example.lab2.Proxy.CacheProxyYouTubeApiClient;
-import org.example.lab2.Proxy.YouTubeApiClient;
+import io.raynelz.lab2.Proxy.CacheProxyYouTubeApiClient;
+import io.raynelz.lab2.Proxy.YouTubeApiClient;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;

@@ -1,5 +1,5 @@
-import org.example.lab3.ChainHandler.ChainService;
-import org.example.lab3.ChainHandler.Request;
+import io.raynelz.lab3.ChainHandler.ChainService;
+import io.raynelz.lab3.ChainHandler.Request;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

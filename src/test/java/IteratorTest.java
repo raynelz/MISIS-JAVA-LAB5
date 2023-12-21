@@ -1,6 +1,6 @@
-import org.example.lab3.Iterator.ItemType;
-import org.example.lab3.Iterator.TreasureChest;
-import org.example.lab3.Iterator.TreasureChestItemIterator;
+import io.raynelz.lab3.Iterator.ItemType;
+import io.raynelz.lab3.Iterator.TreasureChest;
+import io.raynelz.lab3.Iterator.TreasureChestItemIterator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

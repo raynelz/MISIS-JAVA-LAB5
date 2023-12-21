@@ -1,4 +1,4 @@
-import org.example.lab3.Strategy.*;
+import io.raynelz.lab3.Strategy.*;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

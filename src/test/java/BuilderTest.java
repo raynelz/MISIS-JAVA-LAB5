@@ -1,4 +1,4 @@
-import org.example.lab1.Builder.*;
+import io.raynelz.lab1.Builder.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

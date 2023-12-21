@@ -1,4 +1,4 @@
-import org.example.lab1.AbstractFabric.Configuration;
+import io.raynelz.lab1.AbstractFabric.Configuration;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
