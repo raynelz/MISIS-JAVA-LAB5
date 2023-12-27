@@ -1,4 +1,4 @@
-import io.raynelz.lab1.Singleton.Connection;
+import org.example.lab1.Singleton.Connection;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

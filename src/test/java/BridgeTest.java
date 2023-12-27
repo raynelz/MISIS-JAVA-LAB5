@@ -1,7 +1,7 @@
-import io.raynelz.lab2.Bridge.AdvancedRemote;
-import io.raynelz.lab2.Bridge.BasicRemote;
-import io.raynelz.lab2.Bridge.Radio;
-import io.raynelz.lab2.Bridge.TV;
+import org.example.lab2.Bridge.AdvancedRemote;
+import org.example.lab2.Bridge.BasicRemote;
+import org.example.lab2.Bridge.Radio;
+import org.example.lab2.Bridge.TV;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

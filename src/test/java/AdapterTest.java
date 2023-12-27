@@ -1,6 +1,6 @@
-import io.raynelz.lab2.Adapter.RoundHole;
-import io.raynelz.lab2.Adapter.SquareStick;
-import io.raynelz.lab2.Adapter.SquareStickAdapter;
+import org.example.lab2.Adapter.RoundHole;
+import org.example.lab2.Adapter.SquareStick;
+import org.example.lab2.Adapter.SquareStickAdapter;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
